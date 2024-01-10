@@ -1,4 +1,4 @@
-# sistema_solar
+# Análise do sistema solar
 
 Sobre o dataset
 Neste conjunto de dados, temos vários parâmetros diferentes para 8 planetas solares diferentes, como nome do planeta, cor, massa, diâmetro, densidade, gravidade, velocidade de escape, período de rotação, duração do dia, distância do sol, periélio, afélio, período orbital , Velocidade orbital, inclinação orbital, excentricidade orbital, obliquidade em relação à órbita, temperatura média, pressão superficial, número de luas, sistema de anéis ?, campo magnético global?
